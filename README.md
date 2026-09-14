@@ -1,3 +1,27 @@
+<!--
+TBD:
+- Add to visual:
+
+- LLM Stack
+- Promptly
+- Devon
+- vortic ai
+- UFO
+- GPT Swarm
+- Eidolon
+- NexusGPT
+- Brain Soup
+- L2MAC
+
+
+Add to readme list:
+- Codeium
+- tinybio
+- Semantix AI Agents - add when they have english version
+- NoteWizard - only if it's AI agent - TBD test
+- Postbot (TBD - check more)
+	-->
+
 <h1 align="center">
 	🔮 Awesome AI Agents
 	<p align="center">

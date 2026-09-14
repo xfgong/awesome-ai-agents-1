@@ -1,27 +1,3 @@
-<!--
-TBD:
-- Add to visual:
-
-- LLM Stack
-- Promptly
-- Devon
-- vortic ai
-- UFO
-- GPT Swarm
-- Eidolon
-- NexusGPT
-- Brain Soup
-- L2MAC
-
-
-Add to readme list:
-- Codeium
-- tinybio
-- Semantix AI Agents - add when they have english version
-- NoteWizard - only if it's AI agent - TBD test
-- Postbot (TBD - check more)
-	-->
-
 <h1 align="center">
 	🔮 Awesome AI Agents
 	<p align="center">
@@ -1086,6 +1062,24 @@ Build-your-own, SDK for agents, Multi-agent
 - [Docs](https://github.com/joaomdmoura/CrewAI/wiki)
 - [Discord](https://discord.com/invite/X4JWnZnxPb)
 
+</details>
+
+## [CubeLoop](https://github.com/cubeplexai/cubeloop)
+Pythonic async-native agent framework with a linear while-loop runtime
+<details>
+
+### Category
+Build-your-own, SDK for agents
+
+### Description
+- Linear while-loop agent runtime (not a graph), with append-only checkpointing.
+- Typed middleware hooks, MCP tools, human-in-the-loop, and OpenTelemetry.
+- Async-native Python with three core deps: pydantic, anthropic, openai.
+- Alternative to LangGraph-style orchestration for single-agent workflows.
+
+### Links
+- [Documentation](https://cubeloop.dev)
+- [GitHub](https://github.com/cubeplexai/cubeloop)
 </details>
 
 ## [data-to-paper](https://github.com/Technion-Kishony-lab/data-to-paper)
